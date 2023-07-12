@@ -1,0 +1,22 @@
+name: pie_time_widget
+description: This is a countdown to a pie chart that also takes on different colors as time presses.
+version: 0.0.1
+homepage: https://github.com/TralyFang/pie_time_widget
+repository: https://github.com/TralyFang/pie_time_widget
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+
+flutter:
+
